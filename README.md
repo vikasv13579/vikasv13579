@@ -1,11 +1,8 @@
-<h1 align="center">Hi, I'm Vikas 👋</h1>
+<h1 align="center">Hi 👋, I'm Vikas</h1>
+<h3 align="center">Frontend / Full-Stack Developer | React.js • Next.js • JavaScript • Node.js</h3>
 
 <p align="center">
-  <strong>Frontend / Full-Stack Developer — React.js | Next.js | JavaScript | Node.js</strong>
-</p>
-
-<p align="center">
-  Passionate about building fast, modern, and user-friendly web applications with clean UI and real-world functionality.
+  <img src="https://komarev.com/ghpvc/?username=vikasv13579&label=Profile%20Views&color=0e75b6&style=flat" alt="vikasv13579" />
 </p>
 
 ---
@@ -13,76 +10,84 @@
 ## 🚀 About Me
 
 - 🔭 Currently working as a **Frontend Developer**
-- 🌱 Improving skills in **Next.js, React.js, TypeScript, Node.js, MongoDB**
-- 💼 Open to **Frontend / Full-Stack Developer roles**
-- 💡 Love solving UI challenges and building real-world products
-- ⚡ Fun fact: I learn something new every day
+- 🌱 Learning **Next.js, TypeScript, Node.js, MongoDB**
+- 💼 Looking for **Frontend / Full-Stack Developer roles**
+- 💡 Love building clean UI & scalable web apps  
+- ⚡ Fun fact: *I learn something new every day*
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack & Tools
 
 ### **Frontend**
-- React.js  
-- Next.js  
-- JavaScript (ES6+)  
-- Tailwind CSS  
-- HTML5 / CSS3  
-- Redux Toolkit  
-- Framer Motion  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,materialui,bootstrap" />
+</p>
 
 ### **Backend**
-- Node.js  
-- Express.js  
-- MongoDB  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-### **Tools**
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Vercel / Netlify  
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌦️ **Weather Dashboard (Next.js)**  
-Real-time weather information using Next.js API routes and clean UI.  
-🔗 Repo: https://github.com/vikasv13579/weather-dashboard-nextjs  
+### 🌦️ **Weather Dashboard (Next.js)**
+Real-time Next.js weather dashboard with responsive UI.  
+🔗 **Repo:** https://github.com/vikasv13579/weather-dashboard-nextjs  
 
 ---
 
-### 📝 **New Blog Assessment**  
-Blog-style UI with dynamic content, components, and responsive layout.  
-🔗 Repo: https://github.com/vikasv13579/new-blog-assessment  
+### 📝 **New Blog Assessment**
+Blog UI with components, layout, routing & modern design.  
+🔗 **Repo:** https://github.com/vikasv13579/new-blog-assessment  
 
 ---
 
-### 💎 **Shivam Jewellers — Business Website**  
-A modern static website built for a jewellery brand with responsive UI.  
-🔗 Repo: https://github.com/vikasv13579/shivam_jewellers_since_1990  
+### 💎 **Shivam Jewellers — Official Website**
+Modern responsive business website for a jewellery brand.  
+🔗 **Repo:** https://github.com/vikasv13579/shivam_jewellers_since_1990  
 
 ---
 
-### 📧 **Node.js Mailer**  
-Backend mail sender using Node.js + Nodemailer.  
-🔗 Repo: https://github.com/vikasv13579/nodejs-mailer  
+### 📧 **Node.js Mailer**
+Backend utility to send emails using Node.js + Nodemailer.  
+🔗 **Repo:** https://github.com/vikasv13579/nodejs-mailer  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasv13579&show_icons=true&theme=react" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasv13579&layout=compact&theme=react" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikasv13579&show_icons=true&theme=tokyonight" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasv13579&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasv13579&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
-- 💼 LinkedIn: https://www.linkedin.com/in/vikas5715415  
-- ✉️ Email: *(add your email here)*  
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/vikas5715415/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
 
 ---
 
-<p align="center">⭐ If you like my work, feel free to star my repositories!</p>
+<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
